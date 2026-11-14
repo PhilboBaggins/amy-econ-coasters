@@ -8,9 +8,9 @@ Related project: <https://github.com/PhilboBaggins/econ-head>
 
 ## Images
 
-| Amy                              | Econ                                                          | Dudley                              | Benno                              | Piggy                              |
-|----------------------------------|---------------------------------------------------------------|-------------------------------------|------------------------------------|------------------------------------|
-| Photo of Amy coaster coming soon | ![Photo of Econ coaster](./Econ/Media/2026-02-09-082108.jpeg) | Photo of Dudley coaster coming soon | Photo of Benno coaster coming soon | Photo of Piggy coaster coming soon |
+| Amy                              | Benno                              | Dudley                              | Econ                                                          | Piggy                              |
+|----------------------------------|------------------------------------|-------------------------------------|---------------------------------------------------------------|------------------------------------|
+| Photo of Amy coaster coming soon | Photo of Benno coaster coming soon | Photo of Dudley coaster coming soon | ![Photo of Econ coaster](./Econ/Media/2026-02-09-082108.jpeg) | Photo of Piggy coaster coming soon |
 
 The [Econ/Media](./Econ/Media/) directory contains more photos and a video of the Econ coasters.
 
