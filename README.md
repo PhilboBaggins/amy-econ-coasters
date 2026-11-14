@@ -4,6 +4,8 @@ Coasters made for Amy and Econ's house.
 
 This started as a joke gift for Amy's birthday (giving her a set of  coasters featuring Econ's face) but then she liked them and wanted more.
 
+I used 90mm diameter, 3mm thick cork coasters from AliExpress: <https://www.aliexpress.com/item/1005007321819470.html>
+
 Related project: <https://github.com/PhilboBaggins/econ-head>
 
 ## Images
